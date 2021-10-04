@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Anurag dubey
 
-Skills:  HTML / CSS / Bootstrap / JavaScript / PHP
+Skills:  C/C++ / HTML / CSS / Bootstrap / JavaScript / PHP /
 
 - 🔭 I’m currently working on Web development
 
