@@ -1,8 +1,13 @@
-### Hi there 👋, my name is Anurag dubey
+### Hi there 👋, I am Anurag Dubey
 
-Skills:  C/C++ / HTML / CSS / Bootstrap / JavaScript / PHP /
+🔭 I'm a Full-Stack Developer, skilled in MERN Stack and PHP MySQL, I spend most of my time building the
+Backend. I am a quick learner, technology enthusiast,and eager to learn new technologies andmethodologies.
+I have good knowledge of C/C++, JavaScript, Python, and I'm also familiar with jQuery.
 
-- 🔭 I’m currently working on Web development
+## 🛠 Skills
+Php, MySQL, JavaScript, Node.js, React.js, MongoDB Database, C++, Python, HTML, CSS, Bootstrap
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnuragD123)  
